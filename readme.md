@@ -20,7 +20,7 @@
 
 ### 8) ImageOutput.jpg
 - original data images output prediction with filename added label "with_mask" or "without_mask"<br/>
-![ImageOutput](https://github.com/TANKIANAUN/FaceMask_Detection_AlertSystem/blob/main/Output.jpg)
+![ImageOutput](https://github.com/TANKIANAUN/FaceMask_Detection_AlertSystem/blob/main/VideoOutput.jpg)
 
 ### 7) VideoOutput.mp4
 - live webcam video testing clip
