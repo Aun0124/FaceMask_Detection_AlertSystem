@@ -24,6 +24,7 @@
 
 ### 7) VideoOutput.mp4
 - live webcam video testing clip
+- https://drive.google.com/file/d/1Cx8nOBLEtng08RBy-S38nl6Q13wE87l6/view?usp=sharing
 
 ### 8) mask_detector.model
 - trained MobileNetV2 model for face mask classification
